@@ -1,0 +1,7 @@
+{
+  "main": "lib/ajv.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkateivanova/threex.webar.git"
+  },
+}
